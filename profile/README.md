@@ -1,6 +1,6 @@
 # AgendaYa (EBP08) — Plataforma de Reserva de Servicios
 
-Bienvenido a la organización oficial de **AgendaYa**, un proyecto desarrollado en la fábrica-escuela **CodeF@ctory** para la materia Análisis y Diseño de Sistemas II (AYD2) de la **Universidad de Antioquia**.
+Organización oficial de **AgendaYa**, un proyecto desarrollado por el equipo básico 08 en la fábrica-escuela **CodeF@ctory** de la **Universidad de Antioquia**.
 
 ---
 
@@ -16,7 +16,7 @@ Bienvenido a la organización oficial de **AgendaYa**, un proyecto desarrollado 
 * **Karen Vergara** — Backend, Modelado Comercial y Base de Datos (Supabase).
 * **Arelis Giraldo** — Backend, Modelo de Proveedores y Despliegue Frontend (Vercel).
 * **Karelyn Caicedo** — Backend, Módulo Geográfico, Disponibilidad y Despliegue (Render).
-* **Ana Mora y Equipo** — Análisis 1, Prototipado y Diseño Frontend Inicial.
+* **Ana Mora** — Análisis 1, Prototipado y Diseño Frontend Inicial.
 * **Santiago Echeverri** - Análisis 1, Construcción Historias de usuario en UHM.
 * **Samuel Seguro** - Análisis 1, Gestion AzureDevops
 * **Cristian Arias** - Análisis 1, Gestion AzureDevops
